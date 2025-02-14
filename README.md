@@ -1,0 +1,1 @@
+# class-assign-6
